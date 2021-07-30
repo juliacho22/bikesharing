@@ -15,29 +15,30 @@ The chart below shows the time of every bike ride during the month of August in 
 ![checkout%20times%20for%20users.PNG](https://github.com/juliacho22/bikesharing/blob/main/Viz/checkout%20times%20for%20users.PNG)
 
 ### Who is using the bikes?
-The chart below shows the breakdown of riders by gender and duration of times showing that most of the users are men.
-*add checkout times by gender photo* 
+The chart below shows the breakdown of riders by gender and duration of times showing that most of the users are men. \
+![checkout%20times%20by%20gender.PNG](https://github.com/juliacho22/bikesharing/blob/main/Viz/checkout%20times%20by%20gender.PNG)
 
-We can also see that the most common user is male, and the most frequent day of the week to ride on is Thursday.
-*add user trips by gender by weekday photo* 
+We can also see that the most common user is male, and the most frequent day of the week to ride on is Thursday. \
+![user%20trips%20by%20gender%20by%20weekday.PNG](https://github.com/juliacho22/bikesharing/blob/main/Viz/user%20trips%20by%20gender%20by%20weekday.PNG)
+
 
 ### When are users using the bikes?
-This image below shows that weekday rider traffic peaks at traditional commuting times, while weekends see gradual use throughout the day.
-*add trips by weekday per hour photo* 
+This image below shows that weekday rider traffic peaks at traditional commuting times, while weekends see gradual use throughout the day. \
+![trips%20by%20weekday%20per%20hour.PNG](https://github.com/juliacho22/bikesharing/blob/main/Viz/trips%20by%20weekday%20per%20hour.PNG)
 
-The below shows the breakdown by gender
-*add trips by gender (weekday per hour) photo* 
+The below shows the breakdown by gender \
+![trips%20by%20gender%20(weekday%20per%20hour).PNG](https://github.com/juliacho22/bikesharing/blob/main/Viz/trips%20by%20gender%20(weekday%20per%20hour).PNG)
 
 ### Where are thge users biking to and from?
-The two images below show the the top starting and ending locations. Most rides start and end in mid and lower Manhattan
-*add top starting locations photo* 
-*add top ending locations photo* 
+The two images below show the the top starting and ending locations. Most rides start and end in mid and lower Manhattan \
+![top%20starting%20locations.PNG](https://github.com/juliacho22/bikesharing/blob/main/Viz/top%20starting%20locations.PNG)
+![top%20ending%20locations.PNG](https://github.com/juliacho22/bikesharing/blob/main/Viz/top%20ending%20locations.PNG)
 
 ## Summary 
 Based on the findings above, to create a successful bike program in De Moines, one should target men as the main user demographic and position bikes int he most populated areas. Additionally, one could add visualization studying the age of the users to narrow down the advertisement target even further. 
 
-checkout the Tableau link below for a more in depth and interactive view of this analysis
-*add link to Julia's tableau: https://public.tableau.com/app/profile/julia.cho*
+checkout the Tableau link below for a more in depth and interactive view of this analysis \
+Julia's Tableau [https://public.tableau.com/app/profile/julia.cho]
 
 
 
