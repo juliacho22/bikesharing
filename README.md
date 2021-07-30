@@ -38,7 +38,7 @@ The two images below show the the top starting and ending locations. Most rides 
 Based on the findings above, to create a successful bike program in De Moines, one should target men as the main user demographic and position bikes int he most populated areas. Additionally, one could add visualization studying the age of the users to narrow down the advertisement target even further. 
 
 checkout the Tableau link below for a more in depth and interactive view of this analysis \
-Julia's Tableau [https://public.tableau.com/app/profile/julia.cho]
+[https://public.tableau.com/app/profile/julia.cho]
 
 
 
