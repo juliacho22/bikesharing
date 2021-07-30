@@ -1,7 +1,7 @@
 # Bikesharing
 ## Overview of Project
-This project analyzed data from the New York City's Bike program to see if recreating the program in De Moines, Iowa would be a good idea. The project was completed by editing the data using Python's pandas library then using Tableau to create visualizations. 
-*add link to code for edit*
+This project analyzed data from the New York City's Bike program to see if recreating the program in De Moines, Iowa would be a good idea. The project was completed by editing the data using Python's pandas library then using Tableau to create visualizations.  \
+[NYC_CitiBike_Challenge.ipynb](https://github.com/juliacho22/bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb). 
 
 ## Results
 The following questions were explored for the the projects: 
@@ -11,8 +11,8 @@ The following questions were explored for the the projects:
 4. Where are the users biking to and from?
 
 ### How long do users bike for?
-The chart below shows the time of every bike ride during the month of August in 2019. It shows that riders typically like to bike between 2 and 15 minutes.
-*add checkout times for users photo* 
+The chart below shows the time of every bike ride during the month of August in 2019. It shows that riders typically like to bike between 2 and 15 minutes. \
+![checkout%20times%20for%20users.PNG](https://github.com/juliacho22/bikesharing/blob/main/Viz/checkout%20times%20for%20users.PNG)
 
 ### Who is using the bikes?
 The chart below shows the breakdown of riders by gender and duration of times showing that most of the users are men.
